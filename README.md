@@ -1,5 +1,5 @@
-# 🏄‍♂️ Mykeek
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;And+Doing+My+Best)](https://git.io/typing-svg)
+# 😺 Mykeek
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C415F7&width=435&lines=Software+Engineer;And+Doing+My+Best)](https://git.io/typing-svg)
 
 I'm an inspiring software engineer.  
 
@@ -20,7 +20,7 @@ I'm an inspiring software engineer.
 
 ![Mykeek GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykeek&show_icons=true&theme=tokyonight)
 
-![Mykeek GitHub Streak](https://streak-stats.demolab.com?user=Mykeek&theme=gruvbox&border_radius=4.5) 
+[![Mykeek GitHub Streak](https://streak-stats.demolab.com?user=Mykeek&theme=tokyonight)](https://git.io/streak-stats)
 
 #
 
