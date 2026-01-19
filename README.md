@@ -20,8 +20,7 @@ I'm an inspiring software engineer.
 
 ![Mykeek GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykeek&show_icons=true&theme=tokyonight)
 
-![Mykeek GitHub Streak](https://streak-stats.demolab.com?user=Mykeek&theme=tokyonight)](https://git.io/streak-stats)
-
+[![Mykeek GitHub Streak](https://streak-stats.demolab.com?user=Mykeek&theme=tokyonight)](https://git.io/streak-stats)
 #
 
 
